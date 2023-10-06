@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1688745216863,
+      "tag": "0000_clean_scarlet_spider",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1688746169020,
+      "tag": "0001_organic_morg",
+      "breakpoints": true
+    }
+  ]
+}
